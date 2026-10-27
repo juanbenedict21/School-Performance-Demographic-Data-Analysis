@@ -11,6 +11,9 @@ A data analysis project using Microsoft Excel and Power Pivot to clean, organize
 
 ## Tools Used
 Data Cleaning: Removing duplicates, standardizing text, handling missing values, and correcting invalid data.
+
 Data Modeling: Organizing relational tables and establishing relationships using Power Pivot.
+
 Data Analysis: Evaluating average grades, pass rates, and student absenteeism.
+
 Sensitivity Analysis: Examining how different passing grade thresholds affect student pass rates.
