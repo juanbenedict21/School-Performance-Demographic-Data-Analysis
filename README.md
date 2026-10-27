@@ -1,5 +1,5 @@
 # School Performance & Demographic Data Analysis
-A data analysis project using Microsoft Excel and Power Pivot to clean, organize, and analyze student grades, demographics, lifestyle, and family background data. The project evaluates academic performance, pass rates, and student absenteeism to identify patterns and assess the impact of passing grade thresholds.
+A data analysis project focused on cleaning, transforming, and modeling student grades, demographic, lifestyle, and family background data from Portugal. Using Microsoft Excel and Power Pivot, the project applies data cleaning techniques, formulas, named ranges, and data modeling to evaluate academic performance, pass rates, and student absenteeism. The analysis provides insights into student performance patterns and explores how changes in passing grade thresholds affect overall pass rates.
 
 ## Dashboard Preview
 
